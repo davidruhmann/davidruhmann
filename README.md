@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/891976/david-ruhmann">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/891976?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/891976?style=for-the-badge&logo=stackoverflow&logoColor=white&label=StackOverflow" />
   </a>
 </div>
 
